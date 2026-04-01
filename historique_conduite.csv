@@ -1,0 +1,36 @@
+Date,Heure,Type d'Infraction,Détails,Preuve (Image),Score Restant
+2026-03-22,16:36:47,SOMNOLENCE,"Fatigue détectée, prenez une pause !",Preuve_20260322_163646.jpg,85%
+2026-03-22,16:37:04,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163704.jpg,75%
+2026-03-22,16:37:04,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163704.jpg,65%
+2026-03-22,16:37:05,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163705.jpg,55%
+2026-03-22,16:37:05,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163705.jpg,45%
+2026-03-22,16:37:06,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163706.jpg,35%
+2026-03-22,16:37:06,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163706.jpg,25%
+2026-03-22,16:37:06,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163706.jpg,15%
+2026-03-22,16:37:10,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163710.jpg,5%
+2026-03-22,16:37:10,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163710.jpg,0%
+2026-03-22,16:37:10,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163710.jpg,0%
+2026-03-22,16:37:10,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163710.jpg,0%
+2026-03-22,16:37:11,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163711.jpg,0%
+2026-03-22,16:37:25,SOMNOLENCE,"Fatigue détectée, prenez une pause !",Preuve_20260322_163725.jpg,0%
+2026-03-22,16:37:32,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163732.jpg,0%
+2026-03-22,16:37:45,BAILLEMENT,"Vous baillez, attention à la fatigue !",Preuve_20260322_163745.jpg,0%
+2026-03-22,16:39:10,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163910.jpg,90%
+2026-03-22,16:39:21,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163921.jpg,80%
+2026-03-22,16:39:27,SOMNOLENCE,"Fatigue détectée, prenez une pause !",Preuve_20260322_163927.jpg,65%
+2026-03-22,16:39:29,SOMNOLENCE,"Fatigue détectée, prenez une pause !",Preuve_20260322_163929.jpg,50%
+2026-03-22,16:39:32,BAILLEMENT,"Vous baillez, attention à la fatigue !",Preuve_20260322_163932.jpg,45%
+2026-03-22,16:39:44,DISTRACTION_REGARD,Gardez les yeux sur la route !,Preuve_20260322_163944.jpg,40%
+2026-03-22,16:39:49,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260322_163949.jpg,30%
+2026-04-01,18:20:45,TELEPHONE,"Attention, lâchez le téléphone !",Preuve_20260401_182045.jpg,90%
+2026-04-01,18:21:03,BAILLEMENT,"Vous baillez, attention à la fatigue !",Preuve_20260401_182103.jpg,85%
+2026-04-01,18:58:16,DISTRACTION_REGARD,Alerte déclenchée,Preuve_20260401_185816.jpg,95%
+2026-04-01,18:58:30,TELEPHONE,Alerte déclenchée,Preuve_20260401_185830.jpg,85%
+2026-04-01,18:58:57,SOMNOLENCE,Alerte déclenchée,Preuve_20260401_185857.jpg,70%
+2026-04-01,18:59:04,DISTRACTION_REGARD,Alerte déclenchée,Preuve_20260401_185904.jpg,65%
+2026-04-01,18:59:11,TELEPHONE,Alerte déclenchée,Preuve_20260401_185911.jpg,55%
+2026-04-01,18:59:24,DISTRACTION_REGARD,Alerte déclenchée,Preuve_20260401_185924.jpg,50%
+2026-04-01,18:59:25,DISTRACTION_REGARD,Alerte déclenchée,Preuve_20260401_185925.jpg,45%
+2026-04-01,18:59:25,DISTRACTION_REGARD,Alerte déclenchée,Preuve_20260401_185925.jpg,40%
+2026-04-01,18:59:31,DISTRACTION_REGARD,Alerte déclenchée,Preuve_20260401_185931.jpg,35%
+2026-04-01,19:09:06,DISTRACTION_REGARD,Alerte déclenchée,Preuve_20260401_190906.jpg,95%
